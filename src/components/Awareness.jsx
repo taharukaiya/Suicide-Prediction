@@ -1,18 +1,20 @@
 import React from "react";
 import Banner from "./Banner";
+import News from "./News";
 
 const Awareness = () => {
   return (
     <div className="mx-auto">
       <Banner />
 
+      {/* Texts Section */}
       <div className="sm:w-10/12 w-11/12 mx-auto py-12">
         {/* Heading */}
         <h2 className="text-4xl font-bold text-center text-[#45b3e0] mb-2">
           Suicide Prevention
         </h2>
 
-        {/* Content Section */}
+        {/* Content*/}
         <div className="bg-white rounded-lg p-6 sm:p-10">
           <p className="text-lg text-gray-700 leading-relaxed mb-4">
             Suicide is a global public health issue that affects individuals,
@@ -34,6 +36,8 @@ const Awareness = () => {
           </p>
         </div>
       </div>
+
+      <News />
     </div>
   );
 };

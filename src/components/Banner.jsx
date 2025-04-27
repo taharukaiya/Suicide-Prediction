@@ -8,7 +8,7 @@ const Banner = () => {
       <img
         src={bannerImage}
         alt="Banner"
-        className="w-full h-full object-cover blur-[2px]" // Added blur effect
+        className="w-full h-full object-cover blur-[0px]"
       />
       {/* Text Overlay */}
       <div className="absolute inset-0 flex items-center justify-center bg-black/50">

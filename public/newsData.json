@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "news_title": "988 Suicide Hotline Sees Record Surge in Calls After National Awareness Campaign",
+    "image_link": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-360x360,f_auto,q_auto:best/newscms/2020_39/3414822/ss-200924-twip-02.JPG",
+    "news_description": "The 988 Suicide & Crisis Lifeline has experienced an unprecedented **200% increase in calls** since the launch of a $100 million national awareness campaign, according to the U.S. Department of Health and Human Services (HHS). In the past six months alone, over **2.5 million calls, texts, and chats** were routed to trained crisis counselors, marking the highest volume since the hotline’s inception in July 2022. Experts attribute this surge to reduced stigma and improved public knowledge about the three-digit lifeline. 'We’re seeing more people reach out before they reach a crisis point,' said Dr. Sarah Klein, a psychologist with the National Alliance on Mental Illness (NAMI). The hotline now boasts an **88% answer rate**, with average wait times dropping from **3 minutes to just 30 seconds** due to expanded staffing. However, challenges persist—rural areas still face **20% longer wait times**, and LGBTQ+ youth remain **4x more likely** to attempt suicide than their peers. HHS has announced an additional **$300 million in funding** to improve infrastructure, including AI-powered triage systems and specialized support for veterans. 'This is about saving lives in real time,' said HHS Secretary Xavier Becerra. Future plans include integrating 988 with 911 dispatch systems and launching a **24/7 video chat option** for deaf and hard-of-hearing individuals.",
+    "news_time": "11:00 AM",
+    "date": "2024-06-10",
+    "channel_name": "National Health Watch"
+  },
+  {
+    "id": 2,
+    "news_title": "Social Media Giants Face Legal Pressure Over Teen Suicide Clusters Linked to Algorithms",
+    "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFK4EJ0wggF8WnwwoZIeh-1TxXlLPt2kUqzg&s",
+    "news_description": "Meta (Facebook, Instagram), TikTok, and Snapchat are under **federal investigation** after a Harvard study linked their algorithms to **teen suicide clusters** in 12 U.S. states. The research found that vulnerable teens exposed to graphic suicide content were **3.6x more likely** to attempt self-harm within 48 hours. 'These platforms profit from engagement, even when it’s deadly,' said Senator Richard Blumenthal during a Senate Judiciary hearing. Internal documents revealed that Meta’s own 2021 research flagged **13% of teen Instagram users** with suicidal thoughts, yet no systemic changes were made. In response, California passed the **Digital Child Safety Act**, requiring platforms to disable algorithmic amplification for users under 18. Meanwhile, TikTok has begun testing **'crisis friction'**—a 5-second delay before displaying harmful content—while redirecting users to helplines. Mental health advocates argue these measures don’t go far enough. 'We need a **Surgeon General’s warning** on social media, like we have for cigarettes,' said Dr. Jonathan Haidt, author of *The Anxious Generation*. The FTC is now considering **fines up to $5 billion** for violations, with lawsuits filed by 40+ families who lost children to suicide after viral online challenges.",
+    "news_time": "3:30 PM",
+    "date": "2024-05-22",
+    "channel_name": "Tech Policy Today"
+  },
+  {
+    "id": 3,
+    "news_title": "Veteran Suicide Rates Drop 15% After Pentagon Expands Mental Health Services",
+    "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8PGLnvddlqliijqI8xaQY_tKdjDtWnyOAlg&s",
+    "news_description": "For the first time in a decade, **veteran suicides have declined**—from 6,146 deaths in 2022 to 5,242 in 2023—thanks to the Pentagon’s **Mission Wellness Initiative**. The $1.2 billion program provides **same-day mental health care** at 300+ VA clinics and partners with nonprofits like **Wounded Warrior Project** to offer free counseling. 'We’re finally breaking the “tough it out” culture,' said General Mark Milley. Key to the success was the **Veterans Compact**, which allows service members to seek help without fear of career repercussions. The initiative also trains **1 million civilian providers** in military cultural competency. However, gaps remain: Female veterans face a **50% higher attempt rate** than male peers, and Native American veterans are **3x more at risk**. The VA is now piloting **equine therapy** and **psilocybin-assisted treatment** for PTSD. 'Healing isn’t one-size-fits-all,' said VA Secretary Denis McDonough. Next steps include **expanding telehealth** to remote bases and embedding clinicians in National Guard units.",
+    "news_time": "8:45 AM",
+    "date": "2024-04-15",
+    "channel_name": "Military Times"
+  },
+  {
+    "id": 4,
+    "news_title": "Schools Nationwide Adopt ‘Hope Squad’ Peer Intervention to Combat Youth Suicide",
+    "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcs64ecDo6KGQaZGJSG389r4p-iHjBuZf_CA&s",
+    "news_description": "A **peer-to-peer suicide prevention program** called **Hope Squad** has reduced teen suicide attempts by **37%** across 1,200 U.S. schools, per a CDC study. The model trains students to recognize warning signs (e.g., giving away possessions, social withdrawal) and connect classmates to counselors. 'Kids tell friends things they’d never tell adults,' said founder Dr. Gregory Hudnall. Each squad includes **diverse representatives**—athletes, artists, LGBTQ+ students—to ensure no one falls through the cracks. In Texas’s **Plano Independent School District**, Hope Squads have intervened in **142 crises** this year. Critics initially worried about burdening teens, but participants report **higher resilience** and **college scholarship opportunities**. The program now expands to **Canada and Australia**, with a **24/7 teen-run chatline** launching in 2025. 'This isn’t just saving lives; it’s rebuilding communities,' said Surgeon General Vivek Murthy.",
+    "news_time": "1:20 PM",
+    "date": "2024-03-08",
+    "channel_name": "Education Week"
+  },
+  {
+    "id": 5,
+    "news_title": "AI Predicts Suicide Risk with 92% Accuracy Using Hospital Records",
+    "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTakPVwkRM_XbpKU8jQcHm9waqVcfsyDg8vmw&s",
+    "news_description": "A groundbreaking **AI model** developed by MIT and Mass General can now predict suicide risk **2 years in advance** by analyzing **EHR data** (e.g., ER visits, medication changes). Tested on 5 million patients, it flagged **8,000 high-risk individuals** missed by clinicians. 'It looks for subtle patterns, like a sudden drop in cholesterol meds,' said lead researcher Dr. Irene Chen. Hospitals in **Ohio and Colorado** are piloting the system, which alerts care teams to intervene with **personalized safety plans**. Privacy concerns persist, but HIPAA-compliant encryption ensures data security. The NIH has awarded **$50 million** to refine the algorithm for **primary care clinics**. 'This could prevent **20,000 deaths annually**,' said NIMH Director Dr. Joshua Gordon.",
+    "news_time": "5:10 PM",
+    "date": "2024-02-29",
+    "channel_name": "AI Medicine Journal"
+  },
+  {
+    "id": 6,
+    "news_title": "Gun Shop Owners Train to Spot Suicide Risk in Buyers Under New Safety Program",
+    "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNAQY8vn7-3z0_WPZgXe7W7A7PP6mpn9OrA&s",
+    "news_description": "A **first-of-its-kind initiative** trains firearm dealers to **delay sales** to potentially suicidal customers. Since 2022, **1,400 shops** in 30 states have completed the **Hold My Guns** program, preventing **600+ at-risk purchases**. 'We’re not anti-gun; we’re pro-life,' said founder Nancy Carmichael. Tactics include noticing **rushed transactions** or buyers who ask, 'What’s the quickest way?' Participating stores offer **free temporary storage** and **crisis resources**. Data shows a **28% reduction** in firearm suicides in participating counties. The NRA has remained neutral, while **Everytown for Gun Safety** funds expansion. 'If this saves one life, it’s worth it,' said Montana shop owner Jake Ritter.",
+    "news_time": "10:15 AM",
+    "date": "2024-01-18",
+    "channel_name": "Public Safety News"
+  },
+  {
+    "id": 7,
+    "news_title": "Indigenous Communities See Hope with Culturally Tailored Suicide Prevention",
+    "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQb_o1OHyBMNXB_RVwSTW04NN0498SHhaICw&s",
+    "news_description": "The **We R Native** program—combining **traditional healing** with clinical care—has reduced suicide deaths by **41%** in 15 tribal nations. 'Colonial trauma requires Indigenous solutions,' said coordinator Maria Yellow Horse Brave Heart. Initiatives include **talking circles**, **bison reintroduction ceremonies**, and **telemental health** in native languages. The CDC reports Native youth suicide rates **dropped 19%** where implemented. Congress recently approved **$200 million** to expand to **Alaska and Hawaii**. 'Our ancestors’ wisdom is the best medicine,' said Lakota elder Chief Arvol Looking Horse.",
+    "news_time": "4:40 PM",
+    "date": "2023-12-05",
+    "channel_name": "Cultural Health Quarterly"
+  }
+]

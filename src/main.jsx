@@ -7,6 +7,7 @@ import About from "./components/About";
 import Error from "./components/Error";
 import PredictionForm from "./components/PredictionForm";
 import Awareness from "./components/Awareness";
+import Counselor from "./components/Counselor";
 
 const router = createBrowserRouter([
   {
@@ -25,9 +26,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/counseling",
-        element: (
-          <div className="text-center text-3xl font-bold">Counseling</div>
-        ),
+        element: <Counselor />,
       },
       {
         path: "/about",

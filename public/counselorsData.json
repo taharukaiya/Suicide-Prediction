@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "National Suicide Prevention Lifeline (988)",
+    "state": "Nationwide",
+    "country": "United States",
+    "contact": {
+      "phone": "988",
+      "text": "988",
+      "email": "info@988lifeline.org",
+      "website": "https://988lifeline.org"
+    },
+    "languages": ["English", "Spanish"]
+  },
+  {
+    "id": 2,
+    "name": "Crisis Text Line",
+    "state": "Nationwide",
+    "country": "United States",
+    "contact": {
+      "phone": "741741",
+      "text": "741741",
+      "email": "help@crisistextline.org",
+      "website": "https://www.crisistextline.org"
+    },
+    "languages": ["English"]
+  },
+  {
+    "id": 3,
+    "name": "Samaritans UK & Ireland",
+    "state": "Nationwide",
+    "country": "United Kingdom",
+    "contact": {
+      "phone": "116 123",
+      "text": "",
+      "email": "jo@samaritans.org",
+      "website": "https://www.samaritans.org"
+    },
+    "languages": ["English"]
+  },
+  {
+    "id": 4,
+    "name": "Lifeline Australia",
+    "state": "Nationwide",
+    "country": "Australia",
+    "contact": {
+      "phone": "13 11 14",
+      "text": "0477 13 11 14",
+      "email": "",
+      "website": "https://www.lifeline.org.au"
+    },
+    "languages": ["English"]
+  },
+  {
+    "id": 5,
+    "name": "Befrienders India (iCall)",
+    "state": "Nationwide",
+    "country": "India",
+    "contact": {
+      "phone": "9152987821",
+      "text": "",
+      "email": "icall@tiss.edu",
+      "website": "https://icallhelpline.org"
+    },
+    "languages": ["Hindi", "English"]
+  },
+  {
+    "id": 6,
+    "name": "Canadian Suicide Prevention Service",
+    "state": "Nationwide",
+    "country": "Canada",
+    "contact": {
+      "phone": "1-833-456-4566",
+      "text": "45645",
+      "email": "",
+      "website": "https://www.crisisservicescanada.ca"
+    },
+    "languages": ["English", "French"]
+  },
+  {
+    "id": 7,
+    "name": "Telefonseelsorge (Germany)",
+    "state": "Nationwide",
+    "country": "Germany",
+    "contact": {
+      "phone": "0800 111 0 111",
+      "text": "",
+      "email": "",
+      "website": "https://www.telefonseelsorge.de"
+    },
+    "languages": ["German", "Turkish"]
+  },
+  {
+    "id": 8,
+    "name": "Lifeline Aotearoa (New Zealand)",
+    "state": "Nationwide",
+    "country": "New Zealand",
+    "contact": {
+      "phone": "0800 543 354",
+      "text": "4357",
+      "email": "",
+      "website": "https://www.lifeline.org.nz"
+    },
+    "languages": ["English", "Māori"]
+  },
+  {
+    "id": 9,
+    "name": "SOS Amitié (France)",
+    "state": "Nationwide",
+    "country": "France",
+    "contact": {
+      "phone": "09 72 39 40 50",
+      "text": "",
+      "email": "",
+      "website": "https://www.sos-amitie.org"
+    },
+    "languages": ["French"]
+  },
+  {
+    "id": 10,
+    "name": "Consejo Ciudadano (Mexico)",
+    "state": "Nationwide",
+    "country": "Mexico",
+    "contact": {
+      "phone": "55 5533 5533",
+      "text": "",
+      "email": "",
+      "website": "https://consejociudadanomx.org"
+    },
+    "languages": ["Spanish"]
+  }
+]

@@ -33,7 +33,7 @@ const PredictionForm = () => {
     <div className="min-h-screen flex items-center justify-center my-10">
       <div className="w-full max-w-lg border-1 border-[#c9e9f6] shadow-lg rounded-lg p-8 bg-[#f3fafde3]">
         <h2 className="text-3xl font-bold text-center text-[#45b3e0] mb-6">
-          Suicide Prediction Form
+          Suicide Risk Prediction Form
         </h2>
         <form onSubmit={handleSubmit} className="space-y-6">
           {/* Age */}

@@ -1,6 +1,7 @@
 import React from "react";
 import Banner from "./Banner";
 import News from "./News";
+import Papers from "./Papers";
 
 const Awareness = () => {
   return (
@@ -38,6 +39,7 @@ const Awareness = () => {
       </div>
 
       <News />
+      <Papers />
     </div>
   );
 };

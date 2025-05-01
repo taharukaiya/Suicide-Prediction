@@ -35,7 +35,7 @@ const News = () => {
   return (
     <div className="sm:w-10/12 w-11/12 mx-auto py-12">
       <h3 className="text-3xl font-bold text-center text-[#45b3e0] mb-6">
-        Latest News
+        Articles
       </h3>
 
       {/* Cards */}

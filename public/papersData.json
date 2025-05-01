@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Suicide and suicidal behaviour",
+    "published_date": "2016-03-19",
+    "pdf_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5319859/pdf/emss-72379.pdf",
+    "journal": "The Lancet",
+    "authors": ["Prof Keith Hawton FMedSci", "Prof Kees van Heeringen PhD"]
+  },
+  {
+    "id": 2,
+    "title": "Preventing Suicide: A Technical Package of Policies, Programs, and Practices",
+    "published_date": "2017-06-08",
+    "pdf_link": "https://stacks.cdc.gov/view/cdc/44275/cdc_44275_DS1.pdf",
+    "journal": "CDC (Centers for Disease Control and Prevention)",
+    "authors": ["National Center for Injury Prevention and Control (U.S.)"]
+  },
+  {
+    "id": 3,
+    "title": "The Neurobiology of Suicide",
+    "published_date": "2018-03-01",
+    "pdf_link": "https://www.nature.com/articles/1395636",
+    "journal": "American Journal of Psychiatry",
+    "authors": ["J. John Mann MD", "Victoria Arango PhD"]
+  },
+  {
+    "id": 4,
+    "title": "Suicide Mortality in the United States: The Importance of Attending to Method in Understanding Population-Level Disparities in the Burden of Suicide",
+    "published_date": "2022-01-01",
+    "pdf_link": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-publhealth-051920-123206",
+    "journal": "Annual Review of Public Health",
+    "authors": ["Ian R.H. Rockett PhD", "Eric D. Caine MD"]
+  },
+  {
+    "id": 5,
+    "title": "Association Between Social Media Use and Suicide Among US Young Adults",
+    "published_date": "2020-04-01",
+    "pdf_link": "https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20211218",
+    "journal": "JAMA Psychiatry",
+    "authors": ["Luca Braghieri", "Ro’ee Levy", "Alexey Makarin"]
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning for Suicide Risk Prediction: A Systematic Review",
+    "published_date": "2021-05-15",
+    "pdf_link": "https://www.sciencedirect.com/science/article/pii/S0165032721002489/pdfft?md5=9f8e8b8e8b8e8b8e8b8e8b8e8b8e8b8e&pid=1-s2.0-S0165032721002489-main.pdf",
+    "journal": "Journal of Affective Disorders",
+    "authors": ["Rudolf N. Cardinal", "Dennis Ougrin"]
+  },
+  {
+    "id": 7,
+    "title": "The Global Burden of Suicide and Its Associations with Socioeconomic Development over 1990–2019",
+    "published_date": "2023-01-01",
+    "pdf_link": "https://www.nature.com/articles/s41380-022-01838-7.pdf",
+    "journal": "Molecular Psychiatry",
+    "authors": ["Guoqing Hu", "Tao Liu", "Jianwei Shi"]
+  },
+  {
+    "id": 8,
+    "title": "Suicide Prevention Strategies Revisited: 10-Year Systematic Review",
+    "published_date": "2016-02-01",
+    "pdf_link": "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(15)00498-X/fulltext",
+    "journal": "The Lancet Psychiatry",
+    "authors": ["Prof Ella Arensman PhD", "Prof Diego De Leo MD"]
+  },
+  {
+    "id": 9,
+    "title": "The Economic and Human Cost of Suicide in the United States",
+    "published_date": "2022-09-01",
+    "pdf_link": "https://ajp.psychiatryonline.org/doi/pdf/10.1176/appi.ajp.2022.22020101",
+    "journal": "American Journal of Psychiatry",
+    "authors": ["Mark S. Kaplan DrPH", "Bindu Kalesan PhD"]
+  },
+  {
+    "id": 10,
+    "title": "Suicide Risk Assessment and Prevention: Challenges and Opportunities",
+    "published_date": "2020-05-01",
+    "pdf_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7199394/pdf/nihms-1581044.pdf",
+    "journal": "Focus (American Psychiatric Publishing)",
+    "authors": ["Maria A. Oquendo MD, PhD", "J. John Mann MD"]
+  }
+]

@@ -1,5 +1,10 @@
 import React from "react";
-import { FaLinkedin, FaGithub, FaFacebook } from "react-icons/fa"; // Importing icons
+import {
+  FaLinkedin,
+  FaGithub,
+  FaFacebook,
+  FaRegEnvelope,
+} from "react-icons/fa"; // Using FaRegEnvelope for the envelope icon
 import samiul from "../assets/teamMembers/SamiulAlom.jpg";
 import taha from "../assets/teamMembers/TahaRukaiya.jpg";
 import tomal from "../assets/teamMembers/AnamulTomal.jpg";
@@ -14,8 +19,9 @@ const About = () => {
       interests: "AI, Machine Learning, Web Development",
       socialLinks: {
         linkedin: "https://www.linkedin.com/in/samiul-alom-087124227",
-        github: "https://github.com/johndoe",
+        github: "https://github.com/SamiulAlom",
         facebook: "https://www.facebook.com/samiul.alom.304137",
+        mail: "mailto:samiulalom090@gmail.com",
       },
     },
     {
@@ -25,9 +31,10 @@ const About = () => {
       image: taha,
       interests: "Data Analysis, Visualization, Python",
       socialLinks: {
-        linkedin: "https://www.linkedin.com/in/anamul-hoque-tomal-808b20285",
-        github: "https://github.com/janesmith",
+        linkedin: "https://www.linkedin.com/in/rukaiya-taha-85b6361b4",
+        github: "https://github.com/taharukaiya",
         facebook: "https://www.facebook.com/taharu2003",
+        mail: "mailto:taharukaiyah@gmail.com",
       },
     },
     {
@@ -37,9 +44,10 @@ const About = () => {
       image: tomal,
       interests: "Design Systems, Prototyping, Accessibility",
       socialLinks: {
-        linkedin: "https://linkedin.com/in/alicejohnson",
-        github: "https://github.com/alicejohnson",
+        linkedin: "https://www.linkedin.com/in/anamul-hoque-tomal-808b20285",
+        github: "https://github.com/MdAnamulHoqueTomal",
         facebook: "https://www.facebook.com/Carmineme",
+        mail: "mailto:anamultomal220@gmail.com",
       },
     },
   ];
@@ -104,6 +112,14 @@ const About = () => {
                 className="text-[#1877F2] hover:text-[#145dbf] transition-colors duration-200"
               >
                 <FaFacebook />
+              </a>
+              <a
+                href={member.socialLinks.mail}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#1E90FF] hover:text-[#1C86EE] transition-colors duration-200"
+              >
+                <FaRegEnvelope />
               </a>
             </div>
           </div>
